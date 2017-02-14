@@ -15,6 +15,14 @@
 						<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
 						<a class="hdr-logo-link brand-logo" href="{{site.url}}" rel="home">{{site.name}}</a>
 						{% include "menu.twig" with {'menu': menu.get_items} %}
+							<ul class="side-nav" id="mobile-demo">
+        {% for item in menu %}
+		<li class="{{item.classes | join(' ')}}">
+			<a href="{{item.get_link}}">{{item.title}}</a>
+			{% include "menu.twig" with {'menu': item.get_children} %}
+		</li>
+	{% endfor %}
+      </ul>
 						</div>
 					</nav><!-- #nav -->
 
