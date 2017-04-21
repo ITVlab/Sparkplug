@@ -1,0 +1,29 @@
+[{
+    "id": "1",
+    "name": "Android TV White T-Shirt",
+    "price": 19.99,
+    "image": "/images/dictionary.jpg",
+    "description": "Android TV News Since 2015",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "2",
+    "name": "Android TV Black T-Shirt",
+    "description": "Android TV News Since 2015",
+    "price": 19.99,
+    "image": "/images/phaser.png",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "3",
+    "name": "Android TV Black T-Shirt",
+    "description": "Android TV News Since 2015",
+    "price": 19.99,
+    "image": "/images/phaser.png",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "4",
+    "name": "Android TV Black T-Shirt",
+    "description": "Android TV News Since 2015",
+    "price": 19.99,
+    "image": "/images/phaser.png",
+    "url": "http://snipcart-hugo.netlify.com"
+}]
