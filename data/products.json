@@ -1,7 +1,7 @@
 [{
     "id": "1",
     "name": "Android TV Mug",
-    "price": 19.99,
+    "price": 9.99,
     "image": "/images/ATVCup.png",
     "description": "You know you want to wake up with some of your favorite beverage in the am with this cup and turn on your Android TV in style.",
     "url": "http://snipcart-hugo.netlify.com"
