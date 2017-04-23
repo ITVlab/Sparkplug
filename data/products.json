@@ -4,12 +4,19 @@
     "price": 9.99,
     "image": "/images/ATVCup.png",
     "description": "You know you want to wake up with some of your favorite beverage in the am with this cup and turn on your Android TV in style.",
-    "url": "http://snipcart-hugo.netlify.com"
+    "url": "https://store.androidtv.news"
 }, {
     "id": "2",
     "name": "Android TV Black T-Shirt",
     "description": "You know you want to wake up with some of your favorite beverage in the am with this cup and turn on your Android TV in style.",
     "price": 19.99,
     "image": "/images/ATVCup.png",
-    "url": "http://snipcart-hugo.netlify.com"
+    "url": "https://store.androidtv.news"
+}, {
+    "id": "3",
+    "name": "Android TV Pint Glass",
+    "description": "Fill it with your favorite beverage.",
+    "price": 14.99,
+    "image": "/images/ATVCup.png",
+    "url": "https://store.androidtv.news"
 }]
